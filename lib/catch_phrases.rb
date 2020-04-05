@@ -6,7 +6,7 @@ end
 
 def toadstool
   mario
-  puts mario/status
+  puts status
 end
 
 def link
